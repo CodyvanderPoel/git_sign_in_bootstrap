@@ -4,7 +4,7 @@
 
 .sign-in-sheet {
     border: 1px solid #d1d2da;
-    width: 500px;
+    width: 375px;
     border-radius: 2px;
 }
 
@@ -16,4 +16,11 @@
     border: 1px solid #d1d2da;
     width: 400px;
     border-radius: 2px;
+}
+.user {
+    width: 275px;
+}
+
+.font {
+    font-weight: bold;
 }
