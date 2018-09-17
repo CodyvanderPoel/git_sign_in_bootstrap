@@ -1,3 +1,8 @@
 .text {
     font-size: 1.5rem;
 }
+
+.sign-in-sheet {
+    border: 1px solid #d1d2da;
+    width: 500px;
+}
