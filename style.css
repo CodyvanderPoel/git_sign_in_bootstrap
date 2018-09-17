@@ -5,4 +5,15 @@
 .sign-in-sheet {
     border: 1px solid #d1d2da;
     width: 500px;
+    border-radius: 2px;
+}
+
+.link {
+    color: #4c00dd;
+}
+
+.new-account {
+    border: 1px solid #d1d2da;
+    width: 400px;
+    border-radius: 2px;
 }
